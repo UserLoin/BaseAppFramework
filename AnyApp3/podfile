@@ -1,0 +1,17 @@
+platform:ios,'8.0'
+target 'AnyApp3' do
+pod 'MJRefresh'
+pod 'AFNetworking'
+pod 'Masonry'
+#pod 'MBProgressHUD'
+pod 'IQKeyboardManager'
+pod 'SDWebImage'
+pod 'SDCycleScrollView'
+pod 'MJExtension'
+#pod 'ZFPlayer'
+#pod 'YYKit'
+pod 'SVProgressHUD'
+pod 'ReactiveCocoa', '~> 2.5'
+pod 'SDWebImage'
+pod 'iOS-Category'
+end
